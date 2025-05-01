@@ -2,7 +2,6 @@
 
 Este projeto apresenta uma análise visual dos dados históricos de ações de empresas listadas na **NASDAQ**, com foco na variação mensal de fechamento (MoM%), volume de negociações e tendências sazonais.
 
-> 🔗 **[Acesse o dashboard interativo no Power BI Web](https://app.powerbi.com/groups/me/reports/a584589b-98b8-4c95-9467-de7b3139865c/a7cb4a307b47e33e9e8b?ctid=dee74457-d751-4011-a5c4-44560cf8b415&experience=power-bi)**
 
 ---
 
