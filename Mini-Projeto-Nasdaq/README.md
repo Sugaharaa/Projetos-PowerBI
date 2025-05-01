@@ -36,7 +36,8 @@ Explorar e visualizar o comportamento das ações de empresas como **Tesla, Micr
 
 ## 📷 Imagem do Dashboard
 
-![Dashboard Power BI](https://github.com/Sugaharaa/Mini-Projeto-Nasdaq/raw/main/Img/Nasdaq.png)
+![Dashboard Power BI](
+https://github.com/Sugaharaa/Projetos-PowerBI/blob/main/Mini-Projeto-Nasdaq)
 
 ---
 
