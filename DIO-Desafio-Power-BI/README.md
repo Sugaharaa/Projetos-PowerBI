@@ -19,13 +19,6 @@ O objetivo é aplicar na prática os conceitos explorados durante o curso, desen
 * `DIO.pbix` → Arquivo do Power BI com o projeto desenvolvido.
 * `Imagens/` → Pasta com prints e imagens utilizadas no projeto ([ver pasta aqui](https://github.com/Sugaharaa/Projetos-PowerBI/tree/main/DIO-Desafio-Power-BI/Imagens)).
 
----
-
-##Imagens do Dashboard
-
-Aqui estão algumas visualizações do projeto (mais prints disponíveis na pasta `Imagens`):
-
-![Exemplo de Dashboard](https://github.com/Sugaharaa/Projetos-PowerBI/blob/main/DIO-Desafio-Power-BI/Imagens/dashboard1.png)
 
 ---
 
