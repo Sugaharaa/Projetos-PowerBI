@@ -61,16 +61,16 @@ As etapas foram documentadas com capturas de tela disponíveis na pasta [`/image
 
 Exemplos:  
 - Department  
-  ![Department](./imagens/azure_company_departament.png)  
+  ![Department](./imagens/azure_company%20departament.png)  
 
 - Employee (Final)  
-  ![Employee Final](./imagens/azure_company_employee_final.png)  
+  ![Employee Final](./imagens/azure_company%20employee_final.png)  
 
 - Works On  
-  ![Works On](./imagens/azure_company_works_on.png)  
+  ![Works On](./imagens/azure_company%20works_on.png)  
 
 - Project  
-  ![Project](./imagens/azure_company_project.png)  
+  ![Project](./imagens/azure_company%20project.png)  
 
 (Confira a pasta para visualizar todos os prints )  
 
